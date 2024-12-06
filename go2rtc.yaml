@@ -1,0 +1,11 @@
+streams:
+  home:
+    - rtsp://admin:asd12345@10.1.10.8:554/h264/chD1/main/av_stream
+  ca1:
+    - rtsp://196.21.92.82/axis-media/media.amp
+  215gd5n:
+    - rtsp://196.21.92.82/axis-media/media.amp
+api:
+  origin: "*"
+  username: "admin"
+  password: "123456"
